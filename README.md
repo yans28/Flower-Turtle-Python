@@ -1,2 +1,0 @@
-# Turtle-Python
-Just Python
